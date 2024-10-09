@@ -56,4 +56,4 @@ This git style guide has some good practices to have in mind: https://github.com
 
 Thanks!
 
-The Godot development team
+The GioDot development team
