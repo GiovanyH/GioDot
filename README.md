@@ -1,4 +1,4 @@
-<img src="logo.svg" width="400" alt="GioDot Engine logo">
+<img src="logo.svg" width="200" alt="GioDot Engine logo">
 
 no website (for now)
 
